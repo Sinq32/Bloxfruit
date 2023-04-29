@@ -6,7 +6,6 @@ local Window = Rayfield:CreateWindow({
 	LoadingTitle = "Blox Fruits HUB",
 	LoadingSubtitle = "https://discord.gg/a9k7fcZAtq",
 })
-
 local Tab = Window:CreateTab("Main GUI's")
 local Section = Tab:CreateSection("Blox Fruits Main GUI's")
 local TabMobile = Window:CreateTab("Mobile GUI's")
